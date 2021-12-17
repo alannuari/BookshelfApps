@@ -6,8 +6,8 @@ Fitur-fitur:
 - Mencari buku
 - Menghapus buku
 - Mengedit buku
-- Memindahkan buku dari rak belum dibaca ke rak sudah dibaca dan sebaliknya
-- Dapat menyimpan data-data buku pada rak belum dibaca maupun rak sudah dibaca
+- Memindahkan buku dari rak **Belum selesai dibaca** ke rak **Selesai dibaca** dan sebaliknya
+- Dapat menyimpan data-data buku pada rak **Belum selesai dibaca** maupun rak **Selesai dibaca**
 
 ## Teknologi
 - Local Storage
