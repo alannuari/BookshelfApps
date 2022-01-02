@@ -1,5 +1,5 @@
 # Bookshelf Apps
-Submission Dicoding Course - Belajar Membuat Front-End Web untuk Pemula.  
+Submission Dicoding Course - Belajar Membuat Front-End Web untuk Pemula ([sertifikat kelulusan](https://www.dicoding.com/certificates/2VX32595VPYQ)).  
 
 Fitur-fitur:
 - Menambahkan buku
